@@ -1,11 +1,11 @@
 h1{
     padding-top: 30px;
     text-align: center;
-    background-color: rgb(9, 8, 8);
-    color: wheat;
+    background-color: rgb(72, 72, 72);
+    color: white;
 }
 body{
-    background-color: rgb(9, 8, 8);
+    background-color: rgb(72, 72, 72);
 }
 label {
     float: left;
@@ -18,11 +18,10 @@ label {
     padding: 20px;
     padding-top: 10px;
     text-align: center;
-    color: wheat;
-    background-color: rgb(9, 8, 8);
+    color: white;
 }
 #resultado,#resultado1,#resultado2,#resultado3{
-    color: wheat;
+    color: white;
     width: 50%;
     height: 0;
 }
